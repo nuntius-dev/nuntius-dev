@@ -19,9 +19,9 @@ async def generate_text(prompt: str):
         "options": {
             "num_keep": 5,
             "seed": 42,
-            "num_predict": 20,
-            "top_k": 20,
-            "top_p": 0.9,
+            "num_predict": 10,
+            "top_k": 10,
+            "top_p": 0.5,
             "tfs_z": 0.5,
             "typical_p": 0.7,
             "repeat_last_n": 33,
@@ -38,12 +38,12 @@ async def generate_text(prompt: str):
             "num_batch": 2,
             "num_gpu": 1,
             "main_gpu": 0,
-            "low_vram": False,
+            "low_vram": True,
             "f16_kv": True,
             "vocab_only": False,
             "use_mmap": True,
             "use_mlock": False,
-            "num_thread": 8
+            "num_thread": 4
         }
     }
     headers = {
