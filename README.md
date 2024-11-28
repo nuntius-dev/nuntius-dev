@@ -6,7 +6,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: We at Nuntius love crafting automated solutions that save businesses time and improve client interaction; automation is a passion and a mission!
 
-<!---
-nuntius-dev/nuntius-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# Developer
+  [Jeyson Orozco Herrera](https://www.linkedin.com/in/jeyson-orozco/)
